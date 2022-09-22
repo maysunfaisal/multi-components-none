@@ -9,7 +9,7 @@ metadata:
   attributes:
     alpha.dockerimage-port: 8081
 parent:
-  id: python
+  id: python-basic
   registryUrl: "https://registry.devfile.io"
 components:
   - name: outerloop-build
